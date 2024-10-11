@@ -16,7 +16,7 @@ jobs:
         with:
            perfai-username: afrose@perfai.ai
            perfai-password: Tester@786
-           perfai-api-id: "670856ecae5d8e9af1e066b0"
+           perfai-api-id: "670962797223ce88cd6efb5d"
            perfai-api-name: "ActionL"
            perfai-wait-for-completion: "true"
            perfai-fail-on-new-leaks: "false"
