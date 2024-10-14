@@ -16,8 +16,8 @@ jobs:
         with:
            perfai-username: ${{ secrets.perfai_username }}
            perfai-password: ${{ secrets.perfai_password }}
-           perfai-api-id: "670962797223ce88cd6efb5d"
-           perfai-api-name: "ActionL"
+           perfai-api-id: "670d6d43eddc205309b137ce"
+           perfai-api-name: "SD"
            perfai-wait-for-completion: "true"
            perfai-fail-on-new-leaks: "false"
    ### Email Alert Notifcation ###
